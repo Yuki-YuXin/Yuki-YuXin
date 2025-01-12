@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Yu
 
-<!--
-**Yuki-YuXin/Yuki-YuXin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Mobile and Full-Stack developer at Microsoft.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **Trinity Colledge Dublin**
+  - Major: Computer Science
+  - GPA: Distinction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Main skills
+[![My Skills](https://skillicons.dev/icons?i=git,powershell,java,kotlin,swift,ts,react,nodejs,docker,py,django,anaconda,azure)](https://skillicons.dev)
+
+## 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yu-xin-958b121a1/)
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuki-YuXin&show_icons=true&theme=radical)
